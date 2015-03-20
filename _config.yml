@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
+title: OpenArchive
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a free, opensource mobile application that communities can use to route their audiovisual media to the Internet Archive. It bakes in civil liberties protections by offering privacy and creative commons licensing, while amplifying and preserving media for discovery and reuse. The goal is to increase interoperability of the media for researchers, scholars, legal counsel, and others.
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "open-archive.net" # the base hostname & protocol for your site
+twitter_username: Open_Archive
+github_username:  OpenArchive
 
 # Build settings
 markdown: kramdown
