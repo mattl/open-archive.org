@@ -2,8 +2,8 @@
 title: OpenArchive
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a free, opensource mobile application that communities can use to route their audiovisual media to the Internet Archive. It bakes in civil liberties protections by offering privacy and creative commons licensing, while amplifying and preserving media for discovery and reuse. The goal is to increase interoperability of the media for researchers, scholars, legal counsel, and others.
-
+“We are the only species on the planet, so far as we know, to have invented a communal memory stored neither in our genes nor in our brains. The warehouse of this memory is called the library” 
+― Carl Sagan
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "open-archive.net" # the base hostname & protocol for your site
 twitter_username: Open_Archive
