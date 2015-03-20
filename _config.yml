@@ -1,9 +1,11 @@
 # Site settings
 title: OpenArchive
 email: your-email@domain.com
-description: 
-We are the only species on the planet, so far as we know, to have invented a communal memory stored neither in our genes nor in our brains. The warehouse of this memory is called the library. ― Carl Sagan
-url: "open-archive.net" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  “We are the only species on the planet, so far as we know, to have invented a communal memory stored neither in our genes nor in our brains. The warehouse of this memory is called the library” 
+― Carl Sagan
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Open_Archive
 github_username:  OpenArchive
 
