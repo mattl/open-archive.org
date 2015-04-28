@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: nexus5.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Secure, anonymous uploading
 description: |
 ---
 Open Archive allows journalists, citizen documentarians, and researchers to securely route, store, and safeguard their material in a collection at the Internet Archive.
