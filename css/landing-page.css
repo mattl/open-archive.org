@@ -47,7 +47,7 @@ h6 {
     font-size: 5em;
 }
 
-.intro-message > span {
+.intro-message span {
     background: rgba(0,0,0,0.8);
     padding: 8px;
 }
