@@ -8,7 +8,7 @@ description: |
 
 Currently available for android, its features include adding metadata and <a href="http://creativecommons.org/"> creative commons</a> licensing to users’ files and sending media to the <a href="http://archive.org">Internet Archive</a> over <a href="https://www.torproject.org/Tor">Tor</a>.
 
-Citizens armed with mobile devices are becoming history’s first responders, amassing rich, contextualized, and crucial records of today's breaking news.
+
 
 
 
