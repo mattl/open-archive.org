@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ialogo.png
+img: logos.jpg
 category: Services
 title: Features
 description: |
