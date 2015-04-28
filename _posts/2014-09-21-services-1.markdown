@@ -5,5 +5,5 @@ category: Services
 title: Secure, Anonymous Uploading
 description: |
 ---
-OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your mobile media. 
+OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your media. 
 
