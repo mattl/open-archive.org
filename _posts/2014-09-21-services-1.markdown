@@ -2,7 +2,7 @@
 layout: default
 img: OccupyHK.png
 category: Services
-title: Secure, Anonymous Uploading
+title: Secure, Anonymous Preservation
 description: |
 ---
 OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your media. 
