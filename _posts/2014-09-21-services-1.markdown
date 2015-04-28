@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: 
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 
 description: |
 ---
 OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your mobile media.
