@@ -3,7 +3,7 @@ layout: default
 img: 3Logos.png
 category: Services
 title: Features
-description: |
+description: |test
 ---
 
 Currently available for android, features include adding metadata and <a href="http://creativecommons.org/"> creative commons</a> licensing to mobile media files and sending them to the <a href="http://archive.org">Internet Archive</a> over <a href="https://www.torproject.org/Tor">Tor</a>.
