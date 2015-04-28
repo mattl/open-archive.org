@@ -1,14 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: nexus5.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Features
 description: |
 ---
-Currently available for Android, its features include: adding metadata and creative commons licensing and sending media to the Internet Archive over Tor.
 
 Currently available for android, its features include adding metadata and <a href="http://creativecommons.org/"> creative commons</a> licensing to users’ files and sending materials to the <a href="http://archive.org">Internet Archive</a> over <a href="https://www.torproject.org/Tor">Tor</a>.
 
 Citizens armed with mobile devices are becoming history’s first responders, amassing rich, contextualized, and crucial records of today's breaking news.
 
-<img src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" alt="" />
