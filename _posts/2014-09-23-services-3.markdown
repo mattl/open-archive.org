@@ -5,4 +5,8 @@ category: Services
 title: Google Web Fonts and<br>Font Awesome Icons
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Open Archive allows journalists, citizen documentarians, and researchers to securely route, store, and safeguard their material in a collection at the Internet Archive.
+
+Much of this material currently resides on social media platforms that can chill free speech and are subject to  government censorship, privacy concerns, and data loss.
+
+With its users' participation, Open Archive fosters a virtual commons where civil liberties are protected, in the process creating a world where the people’s history is a primary history.
