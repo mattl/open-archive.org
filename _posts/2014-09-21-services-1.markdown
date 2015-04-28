@@ -1,6 +1,6 @@
 ---
 layout: default
-img: OccupyHK.png
+img: OccupyHK.jpg
 category: Services
 title: Secure, Anonymous Preservation
 description: |
