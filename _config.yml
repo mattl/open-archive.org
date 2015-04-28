@@ -1,12 +1,32 @@
-# Site settings
-title: OpenArchive
-email: 
-description: > # this means to ignore newlines until "baseurl:"
-  We are the only species on the planet, so far as we know, to have invented a communal memory stored neither in our genes nor in our brains. The warehouse of this memory is called the library. - Carl Sagan
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://open-archive.net" # the base hostname & protocol for your site
-twitter_username: Open_Archive
-github_username:  OpenArchive
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: Your Awesome Site
+email: your-email@domain.com
+author: Your Name
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
