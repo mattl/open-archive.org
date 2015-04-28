@@ -1,8 +1,8 @@
 ---
 layout: default
 category: Services
-title: Welcome!
-description: |
+title: 
+description: |test
 ---
 OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your mobile media. 
 
