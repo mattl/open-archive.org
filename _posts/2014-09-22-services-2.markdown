@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 3logos.png
+img: 3Logos.png
 category: Services
 title: Features
 description: |
