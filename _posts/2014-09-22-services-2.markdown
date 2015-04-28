@@ -6,7 +6,7 @@ title: Features
 description: |
 ---
 
-Currently available for android, features include adding metadata and <a href="http://creativecommons.org/"> creative commons</a> licensing to mobile media files and sending them to the <a href="http://archive.org">Internet Archive</a> over <a href="https://www.torproject.org/Tor">Tor</a>.
+Currently available in beta for android, features include adding metadata and <a href="http://creativecommons.org/"> creative commons</a> licensing to mobile media files and sending them to the <a href="http://archive.org">Internet Archive</a> over <a href="https://www.torproject.org/Tor">Tor</a>.
 
 
 
