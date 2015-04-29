@@ -6,7 +6,7 @@ title: Design
 description: |
 ---
 
-<b>The Problem</b>
+<b>The Challenge</b>
 <p>Social media is an acceptable distribution platform but a terrible archival platform for newsworthy content gathered by citizen documentarians.</p>
 
 <b>Features</b>
