@@ -7,7 +7,7 @@ description: |
 ---
 
 <b>The Challenge</b>
-<p>Social media is an acceptable distribution platform but a terrible archival platform for newsworthy content gathered by citizen documentarians.</p>
+<p>Social media is an acceptable distribution platform but insufficient for archival preservation of newsworthy content gathered by citizen documentarians.</p>
 
 <b>Features</b>
 
