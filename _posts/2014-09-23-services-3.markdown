@@ -5,13 +5,13 @@ category: Services
 title: Mission
 description: |
 ---
-Open Archive routes, stores, and safeguards mobile media in user-created collections at the Internet Archive. It securely preserves media captured by journalists, citizen documentarians, and the public at large.
+OpenArchive routes, preserves, and amplifies mobile media in user-created collections in an <a href="www.archive.org">accessible public trust</a>, outside the corporate walled gardens dominating the online media ecosystem. 
 
-Much of this material currently resides on social media platforms that can chill free speech and are subject to  government censorship, privacy concerns, and data loss. 
+Currently, most mobile media resides on social media platforms that can chill free speech and are subject to government censorship, privacy breaches, and data loss.
 
-We are doing better.
+<p>We are doing better.
+</p>
 
+OpenArchive fosters a virtual commons where civil liberties are protected, in the process creating a world where the people’s history is a primary history.
 
-
-With its users' participation, Open Archive fosters a virtual commons where civil liberties are protected, in the process creating a world where the people’s history is a primary history.
 
