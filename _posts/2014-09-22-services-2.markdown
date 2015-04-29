@@ -2,9 +2,14 @@
 layout: default
 img: AllLogos.png
 category: Services
-title: Features
+title: Design
 description: |
 ---
+
+<b>The Problem</b>
+Social media is an acceptable distribution platform but a terrible archival platform for newsworthy content gathered by citizen documentarians.
+
+<b>Features</b>
 
 Currently available in beta for android, highlights include adding metadata and <a href="http://creativecommons.org/"> creative commons</a> licensing to mobile media files and sending them to the <a href="http://archive.org">Internet Archive</a> over <a href="https://www.torproject.org/Tor">Tor</a>.
 
