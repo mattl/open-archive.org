@@ -5,7 +5,7 @@ category: Services
 title: Mission
 description: |
 ---
-OpenArchive routes, preserves, and amplifies mobile media in user-created collections in an <a href="www.archive.org">accessible public trust</a>, outside the corporate walled gardens dominating the online media ecosystem. 
+OpenArchive routes, preserves, and amplifies mobile media in user-created collections in an <a href="https://archive.org/">accessible public trust</a>, outside the corporate walled gardens dominating the online media ecosystem. 
 
 Currently, most mobile media resides on social media platforms that can chill free speech and are subject to government censorship, privacy breaches, and data loss.
 
