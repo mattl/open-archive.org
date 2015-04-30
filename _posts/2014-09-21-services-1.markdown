@@ -5,9 +5,5 @@ category: Services
 title: Secure, Anonymous Preservation
 description: |
 ---
-<b>The Challenge</b>
-<p>Social media is an acceptable distribution platform but insufficient for archival preservation of newsworthy content gathered by citizen documentarians.</p>
-
-<b>Application</b>
-<p>OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your media.</p>
+OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your media.
 
