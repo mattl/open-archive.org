@@ -2,7 +2,7 @@
 layout: default
 img: egyptphones.png
 category: Services
-title: Secure, Anonymous Preservation
+title: Secure Preservation
 description: |
 ---
 OpenArchive is a free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your media.
