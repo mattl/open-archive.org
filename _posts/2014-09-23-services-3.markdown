@@ -9,12 +9,13 @@ OpenArchive routes, preserves, and amplifies mobile media in user-created collec
 
 
 Most mobile media presently resides on social media platforms that can chill free speech and are subject to government censorship, privacy breaches, and data loss. While social media is an acceptable distribution platform, it does not provide sufficient privacy protections or archival preservation of newsworthy content gathered by citizen documentarians.
-<p>
-<p>
+<br>
+<br>
 
 <p>We are doing better.
-</p>
-<p>
+</p.
+<br>
+<br>
 OpenArchive fosters a virtual commons where civil liberties are protected, in the process creating a world where the people’s history is a primary history.
 
 
