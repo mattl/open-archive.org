@@ -1,6 +1,6 @@
-# open-archive.net
+# open-archive.org
 
-This is the Jekyll site for the open-archive.net website (hosted by GitHub pages)
+This is the Jekyll site for the open-archive.org website (hosted by GitHub pages)
 
 This is a fairly standard Jekyll site, based on the [Landing Page Theme](README-theme.md)
 
