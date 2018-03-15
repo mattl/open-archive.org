@@ -37,8 +37,8 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 5%;
+    padding-bottom: 0%;
 }
 
 .intro-message > h1 {
@@ -47,15 +47,23 @@ h6 {
     font-size: 5em;
 }
 
-.intro-message > h1 > span, .intro-message > h3 > span {
+.intro-message > h1 > span, .intro-message > h3 > span, .intro-message > p > span {
     background: rgba(0,0,0,0.5);
-    padding: 8px;
+    padding: 4px;
+    margin-top: 25px;
+    line-height: 1.5em;
 }
 
+.intro-message > h3 > span > a {
+color: #fff;
+text-decoration: none;
+margin-top: 20%;
+}
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
+
 }
 
 .intro-message > h3 {
@@ -168,4 +176,21 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+.header-links {
+  margin-top: 10%;
+}
+
+.header-links a {
+  margin-top: 10%;
+}
+
+.download-link
+{
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.1);
+  background: rgba(0,0,0,0.5);
+
 }

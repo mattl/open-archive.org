@@ -2,10 +2,10 @@
 layout: default
 img: nexus5.png
 category: Services
-title: Mission
+title: Secure Preservation
 description: |
 ---
-OpenArchive preserves, amplifies, and routes mobile media to user-created collections in an <a target="_blank" href="https://archive.org/">accessible public trust</a>, outside the corporate walled gardens currently dominating the online media ecosystem. 
+OpenArchive preserves, amplifies, and routes mobile media to user-created collections in an <a target="_blank" href="https://archive.org/">accessible public trust</a>, outside the corporate walled gardens currently dominating the online media ecosystem.
 <br>
 <br>
 
@@ -17,5 +17,3 @@ Citizens armed with mobile devices are becoming history’s first responders, am
 </p>
 <br>
 OpenArchive fosters a virtual commons where civil liberties are protected, in the process creating a world where the people’s history is a primary history.
-
-
