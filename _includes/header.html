@@ -1,64 +1,25 @@
-<!-- Navigation -->
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand page-scroll" href="#home">{{ site.title }}</a>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-            	<li>
-                    <a class="page-scroll" href="#home">Home</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#services">Features</a>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
+<body>
 
-<section id="home">
-<!-- Header -->
-	<div class="intro-header">
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
 
-		<div class="container">
-
-			<div class="row">
-				<div class="col-lg-12">
-					<div class="intro-message">
-						<h1 class="page-title"><span>{{ page.title }}</span></h1>
-						<!--<p><span>{{ page.subTitle }}</span></p>-->
-            <h3 class="page-mission"><span>{{ page.mission }}</span></h3>
-              <hr class="intro-divider">
-
-          <div class="header-links">
-						<ul class="list-inline intro-social-buttons">
-							{% for social in site.social %}
-							<li>
-								<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
-							</li>
-
-							{% endfor %}
-						</ul>
-            <h3><span><a class="download-link" href="https://play.google.com/store/apps/details?id=net.opendasharchive.openarchive.release">Download now from Google Play!</a></span></h3>
-          </div>
-					</div>
-				</div>
-			</div>
-
-		</div>
-		<!-- /.container -->
-
-	</div>
-	<!-- /.intro-header -->
-</section>
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Spectral</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="generic.html">Generic</a></li>
+											<li><a href="elements.html">Elements</a></li>
+											<li><a href="#">Sign Up</a></li>
+											<li><a href="#">Log In</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
